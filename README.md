@@ -1,4 +1,4 @@
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/SidharthMacherla/community#)
+# unreal
 
-# real
-A pythonic implementation of R package: conjurer
+A pythonic implementation of R package conjurer
+
